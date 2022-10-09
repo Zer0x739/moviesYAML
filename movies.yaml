@@ -1,0 +1,30 @@
+movies:
+  movie:
+    - genres:
+        genre:
+          - _id: '1'
+            _name: Fantasy
+          - _id: '2'
+            _name: Sci-fi
+          - _id: '3'
+            _name: Adventure
+      country:
+        _id: '1'
+        _name: United States
+      _id: '1'
+      _name: Avatar
+      _year: '2009'
+    - genres:
+        genre:
+          - _id: '4'
+            _name: Action
+          - _id: '1'
+            _name: Fantasy
+          - _id: '5'
+            _name: Comedy
+      country:
+        _id: '1'
+        _name: United States
+      _id: '2'
+      _name: 'Pirates of the Caribbean: The Curse of the Black Pearl'
+      _year: '2003'
